@@ -1,0 +1,9 @@
+{
+  "name": "api-char-counter-v1",
+  "version": "1.0.0",
+  "description": "Stateless utility API to count characters in a string.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" },
+  "engines": { "node": ">=18" }
+}
