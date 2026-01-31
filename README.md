@@ -60,8 +60,3 @@ If you see that → you’re perfect.
 
 ---
 
-When you’re ready, tell me:
-- **“Char Counter deployed”** (or)
-- **“Render build failed”**
-
-and I’ll walk you through the next exact move without jumping ahead.
